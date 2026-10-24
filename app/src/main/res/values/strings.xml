@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dresso</string>
+    <string name="content_description_back">Back</string>
+    <string name="content_description_profile">Profile</string>
+    <string name="content_description_previous_image">Previous image</string>
+    <string name="content_description_next_image">Next image</string>
+</resources>

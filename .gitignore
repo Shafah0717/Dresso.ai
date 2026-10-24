@@ -1,0 +1,45 @@
+# Gradle and Android build output
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local machine configuration
+local.properties
+*.jks
+*.keystore
+
+# Android Studio / IntelliJ metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+
+# Kotlin and compiler caches
+.kotlin/
+.kotlinc/
+*.hprof
+
+# Generated reports and test output
+**/reports/
+**/test-results/
+**/outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary/editor files
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Codex/local agent metadata
+.agents/
+.aws/
+.codex/
+
