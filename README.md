@@ -37,7 +37,7 @@ The project includes a rigged 3D human avatar, adjustable body-shape controls, a
 
 ## 4. Product Demo
 
-**Demo video / presentation:** [ADD YOUR DEMO LINK HERE]
+
 
 The demo showcases the current prototype, 3D avatar, garment visualization workflow, and planned virtual try-on experience.
 
